@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ji-eun-lab/KIST-GraspNet/assets/73579127/3e94ac09-4181-4e79-93e8-03bcea8f8829">
+  <img src="https://github.com/ji-eun-lab/KIST-GraspNet/assets/73579127/3e94ac09-4181-4e79-93e8-03bcea8f8829" width="300" height="200">
 </p>
 
 

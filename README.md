@@ -1,4 +1,9 @@
 
+# KIST-GraspNet docker
+    docker pull robot1231/graspnet_final
+
+
+
 # A Stable Dishware Grasp Synthesis Method based on Contact-GraspNet for Table Bussing Robots
 
 
@@ -27,4 +32,5 @@ In this paper, we propose a stable dishware grasp synthesis method for table bus
   <img src="https://github.com/ji-eun-lab/KIST-GraspNet/assets/73579127/3369e890-ed9f-49b4-a15b-24fc20f5b79a" width="500" height="300">
 </p>
 
+    
 
